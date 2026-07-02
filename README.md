@@ -4,7 +4,8 @@ This project implements a data processing and analytical pipeline using the PySp
 
 ## Dataset & Project Origin
 
-The analysis is performed on the Employee Dataset. The project challenges were curated in collaboration with Google Gemini, which framed 15 progressive-difficulty questions to test core PySpark capabilities. These questions span from basic data cleaning to advanced analytical techniques, serving as the blueprint for the implementation found in PysparkProject.ipynb.
+The analysis is performed on the Employee![https://www.kaggle.com/datasets/nisargjagtap/employee](dataset) Dataset. 
+The project challenges were curated in collaboration with Google Gemini, which framed 15 progressive-difficulty questions to test core PySpark capabilities. These questions span from basic data cleaning to advanced analytical techniques
 
 ## Technical Operations & Functions
 
